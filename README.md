@@ -33,6 +33,12 @@ code .
 Pull requestler kabul edilir.Büyük değişiklikler için. Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # license 
-MIT
-
+* MIT
+-------
 [Patika Profil Adresim](https://app.patika.dev/shelker)
+
+
+![Lorem Picsum Gorsel](	https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
+
+
+![Lorem Picsum Gorsel](https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png)
