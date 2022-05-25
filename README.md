@@ -35,3 +35,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için. Lütfen önce neyi d
 # license 
 MIT
 
+[Patika Profil Adresim](https://app.patika.dev/shelker)
