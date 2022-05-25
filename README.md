@@ -4,18 +4,11 @@ Patika.dev ile aldığımız eğitimler sayesinde ögreniyoruz.
 * Java ile Backend Patikaları başlangıcında yaptıgım ilk ödevim
 * İçerisinde 1 adet index.html içermektedir.
 
-
-
 # Installation
 
 ``` 
 git clone https://github.com/ismailcicek/kodluyoruzilkrepo.git
 ```
-
-
-
-
-
 
 # Usage
 * Projeyi clonladıktan sonra Visual Studio Code programında açınız.
